@@ -13,9 +13,24 @@ public class Exercise_04 {
     public static void main(String[] args) {
 
         int i = 1;
-        System.out.println("int i is: " + i);
+        boolean bool = true;
+        char chars = 'A';
+        short s = 100;
+        long l = 100L;
+        byte b = 100;
+        float f = 100.001f;
+        double d = 100.001;
 
-        // write your code below
+        System.out.println("int i is: " + i);
+        System.out.println("boolean bool is: " + bool);
+        System.out.println("char chars is: " + chars);
+        System.out.println("short s is: " + s);
+        System.out.println("long l is: " + l);
+        System.out.println("byte b is: "+b);
+        System.out.println("float f is: "+f);
+        System.out.println("double d is: "+d);
+
+
 
     }
 
